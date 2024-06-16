@@ -125,5 +125,5 @@ while total_sum <= 100:
 
 print("The sum of numbers until reaching 100 is: ", total_sum)
 
-
+#added this line only for pratice
 
